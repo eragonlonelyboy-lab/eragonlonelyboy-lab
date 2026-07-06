@@ -25,7 +25,7 @@ That someone is a house of gods now. It's a whole thing.
 | [CALLIOPE](https://github.com/eragonlonelyboy-lab/calliope) | design that's merely "fine" |
 | [MAAT](https://github.com/eragonlonelyboy-lab/maat) | every agent you're running at once |
 
-More gods are in the house. It's getting crowded.
+More gods are ascending. It's getting crowded up there.
 
 ## 🛠️ How I actually build
 
