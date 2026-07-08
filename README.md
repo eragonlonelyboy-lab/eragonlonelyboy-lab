@@ -24,6 +24,9 @@ That someone is a house of gods now. It's a whole thing.
 | [VERITAS](https://github.com/eragonlonelyboy-lab/veritas) | prose that reeks of robot |
 | [CALLIOPE](https://github.com/eragonlonelyboy-lab/calliope) | design that's merely "fine" |
 | [MAAT](https://github.com/eragonlonelyboy-lab/maat) | every agent you're running at once |
+| [ZOILUS](https://github.com/eragonlonelyboy-lab/zoilus) | work that's merely competent, shipping anyway |
+| [PEITHO](https://github.com/eragonlonelyboy-lab/peitho) | launch copy that sounds like every other launch |
+| [PYRRHO](https://github.com/eragonlonelyboy-lab/pyrrho) | the number on the slide nobody audited |
 
 More gods are ascending. It's getting crowded up there.
 
