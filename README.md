@@ -16,6 +16,7 @@ That someone is a house of gods now. It's a whole thing.
 
 | God | Drags your agent back to honesty about |
 |---|---|
+| [ARETE](https://github.com/eragonlonelyboy-lab/arete) | the discipline it loses the moment you switch models |
 | [HORKOS](https://github.com/eragonlonelyboy-lab/horkos) | whether "done" actually happened |
 | [MONETA](https://github.com/eragonlonelyboy-lab/moneta) | how many tokens it just set on fire |
 | [HYPNOS](https://github.com/eragonlonelyboy-lab/hypnos) | its own memory, consolidated in its sleep |
