@@ -28,6 +28,7 @@ That someone is a house of gods now. It's a whole thing.
 | [ZOILUS](https://github.com/eragonlonelyboy-lab/zoilus) | work that's merely competent, shipping anyway |
 | [PEITHO](https://github.com/eragonlonelyboy-lab/peitho) | launch copy that sounds like every other launch |
 | [PYRRHO](https://github.com/eragonlonelyboy-lab/pyrrho) | the number on the slide nobody audited |
+| [OGMA](https://github.com/eragonlonelyboy-lab/ogma) | whether the docs describe the code or a memory of it |
 
 More gods are ascending. It's getting crowded up there.
 
